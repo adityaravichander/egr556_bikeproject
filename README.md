@@ -10,3 +10,8 @@ for vehicle safety.
 
 • Performed MATLAB simulations to observe that the FSF controller stabilizes the bicycle within 4s; whereas,
 with SMC, it is 50s.
+
+
+SMC (with disturbance) - Plot of ![States](https://github.com/adityaravichander/egr556_bikeproject/blob/main/SMC_states_dist.png) vs Time
+
+SMC (with disturbance) - Plot of ![Control Input](https://github.com/adityaravichander/egr556_bikeproject/blob/main/SMC_control_dist.png) vs Time
