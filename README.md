@@ -8,5 +8,5 @@ for vehicle safety.
 • Estimated the maximum value of the initial roll angle to achieve stability as 0.63 degrees.
 
 
-• Performed MATLAB simulations to observe that the FSF controller stabilizes the bicycle within 4 seconds; whereas,
-with SMC, it is 50 seconds.
+• Performed MATLAB simulations to observe that the FSF controller stabilizes the bicycle within 4s; whereas,
+with SMC, it is 50s.
