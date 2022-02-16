@@ -12,6 +12,9 @@ for vehicle safety.
 with SMC, it is 50s.
 
 
-SMC (with disturbance) - Plot of ![States](https://github.com/adityaravichander/egr556_bikeproject/blob/main/SMC_states_dist.png) vs Time
+![Plot of States with disturbance](https://github.com/adityaravichander/egr556_bikeproject/blob/main/SMC_states_dist.png)
+![Plot of Control Input with disturbance](https://github.com/adityaravichander/egr556_bikeproject/blob/main/SMC_control_dist.png) 
 
-SMC (with disturbance) - Plot of ![Control Input](https://github.com/adityaravichander/egr556_bikeproject/blob/main/SMC_control_dist.png) vs Time
+
+![Plot of States without disturbance](https://github.com/adityaravichander/egr556_bikeproject/blob/main/SMC_states_wodist.png)
+![Plot of Control Input without disturbance](https://github.com/adityaravichander/egr556_bikeproject/blob/main/SMC_control_wodist.png)
