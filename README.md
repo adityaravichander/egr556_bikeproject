@@ -1,15 +1,13 @@
 # EGR556_BikeProject 
 
 
-• Implemented a full-state feedback controller (FSF) and sliding mode controller (SMC) to stabilize an autonomous bike
-for vehicle safety. 
+• Implemented a sliding mode controller (SMC) to stabilize an autonomous bike for vehicle safety. 
 
 
 • Estimated the maximum value of the initial roll angle to achieve stability as 0.63 degrees.
 
 
-• Performed MATLAB simulations to observe that the FSF controller stabilizes the bicycle within 4s; whereas,
-with SMC, it is 50s.
+• Performed MATLAB simulations to observe that the FSF controller stabilizes the bicycle with 50s.
 
 
 ![Plot of States with disturbance](https://github.com/adityaravichander/egr556_bikeproject/blob/main/SMC_states_dist.png)
